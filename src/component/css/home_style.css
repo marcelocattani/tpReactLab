@@ -1,0 +1,11 @@
+.alinear {
+    
+    padding-top: 5em;
+    color: rgb(223, 20, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.alinear h1, .alinear h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 4px 4px 2px rgba(234, 225, 246, 1);
+}
+

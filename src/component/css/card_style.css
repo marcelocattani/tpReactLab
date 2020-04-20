@@ -1,0 +1,29 @@
+.card-container {
+    width: 100%;    
+    margin-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 2px solid rgb(189, 189, 189);
+  }
+
+  .gratis {
+    color: rgb(18, 163, 18);
+  }
+
+  .costo {
+    color: rgb(255, 136, 0);
+  }
+.ilustracion {
+  margin-right: 2em;
+}
+
+.card-container a {
+  color: black !important;
+}
+
+.añadir-btn{
+  border: 1px solid rgb(5, 115, 151);
+  background-color: transparent;
+  padding: 1em;
+  border-radius: 15px;
+  color: rgb(5, 115, 151);
+}
